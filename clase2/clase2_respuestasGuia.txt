@@ -3,3 +3,5 @@
 5. El cambio realizado desde el repositorio remoto no se ve localmente porque aún no realicé el pull correspondiente.
 
 8. Desde el lugar donde realicé el primer push no sucedió nada, pero el segundo me dio un error. Esto sucedió porque estaba trabajando con un archivo desactualizado después del primer push, así que para proseguir realicé un merge para unir los distintos cambios.
+
+El enlace del repositorio creado para las siguientes clases es: https://github.com/IvanSerrudo/curso-java
