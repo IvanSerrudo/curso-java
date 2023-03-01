@@ -1,3 +1,3 @@
 hola mundo
 mi nombre es ivan
-estoy haciendo un curso de programación
+estoy haciendo un curso de programación donde estoy aprendiendo a usar github
